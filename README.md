@@ -48,13 +48,16 @@ It presents a main menu that allows the user to select between four functional t
 
 ---
 
-📘 ##Getting Started##
-🧩 ###Prerequisites###
+📘 Getting Started
+🧩 Prerequisites
 
 This project requires:
-Python 3.9 or higher Linux-based operating system (e.g., Ubuntu, Debian, Fedora etc on Windows, or macOS) to properly support system-level operations like os.fork, signal handling, and process priority management.
 
-⚙️ ###Installation and Execution###
+Python 3.9 or higher
+
+A Linux-based operating system (e.g., Ubuntu, Debian, Fedora, WSL on Windows, or macOS) to properly support system-level operations like os.fork, signal handling, and process priority management.
+
+⚙️ Installation and Execution
 1️⃣ Clone the Repository
 
 Navigate to your desired directory and clone the project:
@@ -72,14 +75,6 @@ python3 os_work.py
 
 Once started, the program displays a main menu with options (1–4).
 To exit, type stop or zaustavi.
-
-⚠️ Important Notes for Functionalities 2 & 3
-
-Functionality 2 automatically creates a file named stacking.txt on your Desktop (e.g., ~/Desktop/stacking.txt).
-It contains the current stack trace when specific signals (e.g., SIGHUP, SIGABRT) are triggered.
-
-Functionality 3 generates a file named step_by_step.txt inside your Home directory (e.g., ~/step_by_step.txt).
-It contains incremental calculations of the sum of square roots for the selected range.
 
 ---
 

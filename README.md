@@ -48,16 +48,16 @@ It presents a main menu that allows the user to select between four functional t
 
 ---
 
-📘 Getting Started
-🧩 Prerequisites
+## 📘 Getting Started
+### 🧩 Prerequisites
 
 This project requires:
 
 Python 3.9 or higher
 
-A Linux-based operating system (e.g., Ubuntu, Debian, Fedora, WSL on Windows, or macOS) to properly support system-level operations like os.fork, signal handling, and process priority management.
+A Linux-based operating system (e.g., Ubuntu, Debian, Fedora etc. on Windows, or macOS) to properly support system-level operations like os.fork, signal handling, and process priority management.
 
-⚙️ Installation and Execution
+### ⚙️ Installation and Execution
 1️⃣ Clone the Repository
 
 Navigate to your desired directory and clone the project:

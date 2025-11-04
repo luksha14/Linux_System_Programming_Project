@@ -53,23 +53,23 @@ It presents a main menu that allows the user to select between four functional t
 
 This project requires:
 
-Python 3.9 or higher
+- Python 3.9 or higher
 
-A Linux-based operating system (e.g., Ubuntu, Debian, Fedora etc. on Windows, or macOS) to properly support system-level operations like os.fork, signal handling, and process priority management.
+- A Linux-based operating system (e.g., Ubuntu, Debian, Fedora etc. on Windows, or macOS) to properly support system-level operations like os.fork, signal handling, and process priority management.
 
 ### ⚙️ Installation and Execution
 1️⃣ Clone the Repository
 
 Navigate to your desired directory and clone the project:
 
-git clone [YOUR_REPOSITORY_LINK]
-cd [YOUR_REPOSITORY_NAME]
+- git clone [YOUR_REPOSITORY_LINK]
+- cd [YOUR_REPOSITORY_NAME]
 
 2️⃣ Run the Main Program
 
 Execute the main Python file from the terminal:
 
-python3 os_work.py
+- python3 os_work.py
 
 3️⃣ Use the Menu
 

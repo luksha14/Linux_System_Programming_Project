@@ -78,10 +78,10 @@ To exit, type stop or zaustavi.
 
 ### ⚠️ Important Notes for Functionalities 2 & 3
 
-Functionality 2 automatically creates a file named stacking.txt on your Desktop (e.g., ~/Desktop/stacking.txt).
+- Functionality 2 automatically creates a file named stacking.txt on your Desktop (e.g., ~/Desktop/stacking.txt).
 It contains the current stack trace when specific signals (e.g., SIGHUP, SIGABRT) are triggered.
 
-Functionality 3 generates a file named step_by_step.txt inside your Home directory (e.g., ~/step_by_step.txt).
+- Functionality 3 generates a file named step_by_step.txt inside your Home directory (e.g., ~/step_by_step.txt).
 It contains incremental calculations of the sum of square roots for the selected range
 
 ---
